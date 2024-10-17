@@ -1,6 +1,7 @@
-# ps3
+# PS3
 
-##Group Member
+## Group Member
 - Mark
-##Files
-- Jupyter notebook file for answering the questions is called MP_PS3.ipynb 
+
+## Files
+- **MP_PS3.ipynb**: Jupyter notebook file for answering the questions.
